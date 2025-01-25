@@ -78,9 +78,13 @@ header a{
 .banner h1{
   font-size: 250%;
   margin-left: 10%;
+     margin: auto;
+}
 }
 .banner span{
   color: #00fe00;
+     margin: auto;
+}
 }
 
 
